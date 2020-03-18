@@ -19,7 +19,7 @@ Pseudo code structure is showed below:
    
    3.5. for every p in Production N, compute cvyz, keep the running sum
    
-   3.6.check conversion by calling compareRules function, if converged 
+   3.6. check conversion by calling compareRules function, if converged 
    
       3.6.1. for every p in Production T, compute eva 
       
