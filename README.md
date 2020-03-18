@@ -5,6 +5,7 @@ pseudo code structure is showed below:
 1. read CFG as g from the test.txt 
 2. Input string named intstr 
 3. While not converged 
+
    3.1. Update pre_g with current g 
    3.2. Run inside and outside functions 
    3.3. for every NT in nonTerminal, compute c(v) 
