@@ -2,7 +2,7 @@
 Check Parser.java 
 EM algorithm as driven function to run inside and outside algorithms (line 303) 
 
-pseudo code structure is showed below: 
+Pseudo code structure is showed below: 
 1. read CFG as g from the test.txt 
 
 2. Input string named intstr 
